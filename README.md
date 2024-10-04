@@ -1,5 +1,5 @@
-ABC Insurance Customer Churn Analysis
-Project Overview
+## ABC Insurance Customer Churn Analysis
+# Project Overview
 ABC Insurance, once a market leader, is experiencing a steady increase in customer churn alongside stagnant customer lifetime value. The company’s CEO has tasked the marketing department with understanding and addressing the root causes of this issue by analyzing customer data. The objective of this project is to unearth hidden patterns within the customer data that can help ABC Insurance tailor its product offerings, improve customer engagement, and reduce churn.
 
 # Data Description
@@ -33,9 +33,5 @@ The project is structured as follows:
 # README.md: Project overview and instructions.
 results/: Outputs such as visualizations and model performance metrics.
 
-# How to Run the Project
-- Clone this repository.
-- Download the datasets from the link provided and place them in the data/ directory.
-- Open the Jupyter notebook and run the cells sequentially.
 # Results
 This analysis will provide insights into customer behavior, helping to create targeted strategies for reducing churn and increasing customer engagement.
